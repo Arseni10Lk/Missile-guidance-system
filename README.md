@@ -48,4 +48,6 @@ To do this, we have to divide intersecting area by the area of the circle:
 The accuracy in our example is 63.5%.
 This part is implemented in Python.
 
-The stats of the missile, during a strike will be added soon.
+As the strike progresses we can observe several variables:
+Real(yellow) and commanded(blue) flight path angle and height.
+https://github.com/Arseni10Lk/Missile-guidance-system/blob/main/Video.mp4
