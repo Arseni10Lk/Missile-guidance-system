@@ -50,4 +50,5 @@ This part is implemented in Python.
 
 As the strike progresses we can observe several variables:
 Real(yellow) and commanded(blue) flight path angle and height.
+
 https://github.com/Arseni10Lk/Missile-guidance-system/blob/main/Video.mp4
